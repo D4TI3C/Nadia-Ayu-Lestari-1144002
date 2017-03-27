@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/part2.PNG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/part2.png">
 </p>
 
 
