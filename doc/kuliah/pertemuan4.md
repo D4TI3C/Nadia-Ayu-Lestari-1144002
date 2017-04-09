@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/ruang.JPG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/ruang.jpg">
 </p>
 
 
@@ -55,12 +55,12 @@ o	Daerah seberang: (1,1,1,1)
 
 **•	Aturan**<p><br>
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/t1.PNG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/t1.png">
 </p>
 
 **•	Penyelesaian :**<p><br>
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/t2.PNG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/t2.png">
 </p>
 
 **hasil implementasi :**
