@@ -63,7 +63,7 @@ o	Disclosure Integration - Arti dari setiap kalimat tergantung pada arti kalimat
 o	Pragmatics Analysis - Selama ini, apa yang dikatakan diinterpretasikan kembali pada apa yang sebenarnya dimaksudkannya. Ini melibatkan aspek bahasa yang membutuhkan pengetahuan dunia nyata.
 
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/NLP1.JPG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/NLP1.jpg">
 </p>
 
 e)	SpeechRecognition
