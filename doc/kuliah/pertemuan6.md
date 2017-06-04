@@ -20,18 +20,20 @@ Dalam keidupan nyata banyak hal yang belum dapat di pastika 100% kebenarannya, k
 Faktor Ketidakpastian yaitu hasil yang  tidak pasti disebakan oleh dua faktor yaitu aturan yang tidak pasti dan jawaban, pengguan yang tidak pasti atas suatu pertanyaan yang diajukan oleh sistem. Misalnya dapat dilihat pada sistem diagnosis penyakit, dimana sistem pakar tidak dapat mendefinisikan hubungan antara gejala dan penyebab. Metode dalam faktor Ketidakpastian yaitu metode probabilitas karena ketidakmampuan seorang pakar merumus kan suatu aturan secara pasti.
 
 ONFIDENCE FACTOR UNION METHODS
-	Confidence factor union methods adalah suatu alternative pendekatan untuk menentukan confidence factor dari beberapa aturan. 
-	C(cf) = cf1 + cf2 – cf1 * cf2
-Dimana 
-		C(cf) = Hasil akhir dari factor kepastian (cf)
-		cf1    = Nilai Faktor kepastian (cf) dari aturan 1
-		cf2    = Nilai Faktor kepastian (cf) dari aturan 2
-Contoh :
-	cf1 = 0.2
-	cf2 = 0.5
-C(cf) = 0.2 + 0.5 – 0.2 * 0.5 = 0.6
+Confidence factor union methods adalah suatu alternative pendekatan untuk menentukan confidence factor dari beberapa aturan.<br> 
+	C(cf) = cf1 + cf2 – cf1 * cf2<br>
+Dimana<br>
+C(cf) = Hasil akhir dari factor kepastian (cf)<br>
+cf1    = Nilai Faktor kepastian (cf) dari aturan 1<br>
+cf2    = Nilai Faktor kepastian (cf) dari aturan 2<br>
 
-Bila ada aturan ketiga dengan cf3 = 0.5, maka ;
+Contoh :<br>
+- cf1 = 0.2<br>
+- cf2 = 0.5<br>
+
+- C(cf) = 0.2 + 0.5 – 0.2 * 0.5 = 0.6
+
+Bila ada aturan ketiga dengan cf3 = 0.5, maka ;<br>
 
 -	C(cf) = 0.6 + 0.5 – 0.6 * 0.5 = 0.8
 
@@ -43,13 +45,13 @@ Bila ada aturan ketiga dengan cf3 = 0.5, maka ;
 
  **Term:**
 <p align="center">
-  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/cf2.PNG">
+  <img src="https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002/blob/master/img/cf2.png">
 </p>
 
 Knowledge base terdiri dari sejumlah aturan yang mempunyai sintaks dasar :
 
-IF <evidence>
-THEN <hypothesis> {cf}
+• IF <evidence>
+• THEN <hypothesis> {cf}
 
 Dimana cf merepresentasikan keyakinan hipotesis H jika diberikan evidence E telah terjadi.
 
@@ -67,29 +69,28 @@ Selanjutnya untuk mendalami materi Artificial Intelligence : Confidence Factor U
 
 -------
 
-**Link Github** 	            :  https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002<br>
+**Link Github**		        :  https://github.com/D4TI3C/Nadia-Ayu-Lestari-1144002<br>
 
 **Referensi**	                :  http://downloadfiles.pelitanusantara.ac.id/files/MODUL%20AJAR/Kecerdasasan%20Buatan-printed.pdf  <br>
 
-**link Blog** 					:  http://nadiaaayulestari.blogspot.co.id/
+**link Blog**			:  http://nadiaaayulestari.blogspot.co.id/2017/06/kecerdasan-buatan-confidence-factor.html
 
-**link Video**					: 
 
 **Scan Plagiarisme**          : <br>
    
 a. searchenginereport     :  https://drive.google.com/open?id=0B831iVXSuoJcQmVGZVJjanRKRlU<br>
         
                        
-b. smallseotools	      :  https://drive.google.com/open?id=0B831iVXSuoJcZHJESE1pRlU0NG8<br>
+b. smallseotools	  :  https://drive.google.com/open?id=0B831iVXSuoJcZHJESE1pRlU0NG8<br>
 
 
 -------
 
 > - Fullname 				 : Nadia Ayu Lestari Arifin
 > - Nickname 				 : Nadia
-> - NPM		 				 : 1144002
-> - Class	 				 : D4 TI 3C
-> - Department  		     : Informatics Engineering
-> - Collage					 : Politeknik Pos Indonesia
+> - NPM		 			 : 1144002
+> - Class	 			 : D4 TI 3C
+> - Department  			 : Informatics Engineering
+> - Collage				 : Politeknik Pos Indonesia
 
 
