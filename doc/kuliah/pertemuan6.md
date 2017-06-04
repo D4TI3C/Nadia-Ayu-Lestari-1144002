@@ -50,8 +50,8 @@ Bila ada aturan ketiga dengan cf3 = 0.5, maka ;<br>
 
 Knowledge base terdiri dari sejumlah aturan yang mempunyai sintaks dasar :
 
-• IF <evidence>
-• THEN <hypothesis> {cf}
+• IF <.evidence>
+• THEN <.hypothesis> {cf}
 
 Dimana cf merepresentasikan keyakinan hipotesis H jika diberikan evidence E telah terjadi.
 
